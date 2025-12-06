@@ -10,10 +10,16 @@
 
 .modules-left {
   margin-left: 8px;
+  margin-top: 8px;
 }
 
 .modules-right {
   margin-right: 8px;
+  margin-top: 8px;
+}
+
+.modules-center {
+  margin-top: 8px;
 }
 
 #workspaces button {
